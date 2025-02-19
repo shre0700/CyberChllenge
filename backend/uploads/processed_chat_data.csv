@@ -1,0 +1,7 @@
+Speaker,Message,Sentiment Score,Sentiment Label,Risk Level
+Person A,Hello! How are you?,0.0,Neutral,Low Risk
+Person B,"I'm great, thanks for asking!",0.807,Positive,Low Risk
+Person A,That's awesome! Hope you have a good day.,0.8805,Positive,Low Risk
+Person B,"Not really, today was stressful.",-0.552,Negative,High Risk
+Person A,Oh no! What happened?,-0.3595,Negative,Medium Risk
+Person B,"Work was overwhelming, too many tasks.",0.0,Neutral,Low Risk
